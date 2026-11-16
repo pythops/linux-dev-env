@@ -1,0 +1,4 @@
+config LAPOISSE
+	tristate "Lapoisse"
+	help
+	  Caporal Lapoisse Module
